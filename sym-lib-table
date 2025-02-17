@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "boost_charger_lib")(type "KiCad")(uri "${KIPRJMOD}/boost_charger_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "microusb")(type "KiCad")(uri "${KIPRJMOD}/2025-01-16_06-16-15.kicad_sym")(options "")(descr ""))
+)
